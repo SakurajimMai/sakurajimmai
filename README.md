@@ -1,6 +1,7 @@
-### Hi there 👋
+
 ![](https://visitor-badge.glitch.me/badge?page_id=SakurajimMai.readme)
 ![](http://antzuhl.cn:4000/get/@SakurajimMai.readme)
+![info](https://github-readme-stats.vercel.app/api?username=SakurajimMai&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 <!--
 **SakurajimMai/sakurajimmai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
