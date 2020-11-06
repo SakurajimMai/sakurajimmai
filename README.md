@@ -1,7 +1,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=SakurajimMai.readme)
 ![](http://antzuhl.cn:4000/get/@SakurajimMai.readme)
-![info](https://github-readme-stats.vercel.app/api?username=SakurajimMai&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+![info](https://github-readme-stats.vercel.app/api?username=SakurajimMai&show_icons=true&count_private=true&hide=prs&theme=react)
  <img src="https://weather-icon.journeyad.repl.co/@shanghai?v=1" align="right">
  #### Platform&Tools
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
