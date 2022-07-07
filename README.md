@@ -92,19 +92,16 @@ Sunday       12 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               5 mins              ████████████████████████░   98.84% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88% 
-Go                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-code                     5 mins              ████████████████████████░   98.93% 
-vuepress                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.07%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -124,5 +121,5 @@ PHP                      1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SakurajimMai/SakurajimMai/master/charts/bar_graph.png) 
 
 
- Last Updated on 06/07/2022 18:49:48 UTC
+ Last Updated on 07/07/2022 18:59:59 UTC
 <!--END_SECTION:waka-->
