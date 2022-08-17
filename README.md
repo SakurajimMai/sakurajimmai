@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -92,16 +92,20 @@ Sunday       12 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               3 hrs               █████████████░░░░░░░░░░░░   54.18% 
+Vue.js                   1 hr 46 mins        ████████░░░░░░░░░░░░░░░░░   32.05% 
+JSON                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+Git Config               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.43% 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.01%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 hrs 32 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+first-vue                5 hrs 32 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 hrs 32 mins       █████████████████████████   100.0%
 
 ```
 
@@ -121,5 +125,5 @@ PHP                      1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SakurajimMai/SakurajimMai/master/charts/bar_graph.png) 
 
 
- Last Updated on 10/08/2022 18:48:37 UTC
+ Last Updated on 17/08/2022 18:50:07 UTC
 <!--END_SECTION:waka-->
