@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-261%20hrs%2053%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -92,19 +92,16 @@ Sunday       12 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   44 mins             ████████████████████████░   99.35% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  44 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-my-vue-app               44 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  44 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -124,5 +121,5 @@ PHP                      1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SakurajimMai/SakurajimMai/master/charts/bar_graph.png) 
 
 
- Last Updated on 25/08/2022 18:48:48 UTC
+ Last Updated on 26/08/2022 18:50:34 UTC
 <!--END_SECTION:waka-->
