@@ -63,48 +63,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 3 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    20 commits     █████████░░░░░░░░░░░░░░░░   35.71% 
-🌃 Evening    29 commits     █████████████░░░░░░░░░░░░   51.79% 
-🌙 Night      7 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       24 commits     ██████████░░░░░░░░░░░░░░░   42.86% 
-Tuesday      3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.36% 
-Wednesday    2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.57% 
-Thursday     6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
-Friday       8 commits      ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Saturday     1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.79% 
-Sunday       12 commits     █████░░░░░░░░░░░░░░░░░░░░   21.43%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -121,5 +79,5 @@ PHP                      1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SakurajimMai/SakurajimMai/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/09/2022 18:53:14 UTC
+ Last Updated on 14/09/2022 18:53:22 UTC
 <!--END_SECTION:waka-->
