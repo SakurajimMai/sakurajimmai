@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-261%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-262%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -92,16 +92,16 @@ Sunday       12 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   20 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  20 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+python                   20 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  20 mins             █████████████████████████   100.0%
 
 ```
 
@@ -121,5 +121,5 @@ PHP                      1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SakurajimMai/SakurajimMai/master/charts/bar_graph.png) 
 
 
- Last Updated on 11/10/2022 18:57:45 UTC
+ Last Updated on 13/10/2022 19:02:45 UTC
 <!--END_SECTION:waka-->
